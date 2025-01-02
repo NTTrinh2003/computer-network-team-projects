@@ -5,5 +5,3 @@
  
 ## Projects
 ### Project 1: Socket
-### Project 2: Wireshark
-### Project 3: Packet Tracer
